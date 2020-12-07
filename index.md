@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+## International Workshop on Performance Analysis of Machine Learning Systems
+March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
 
-You can use the [editor on GitHub](https://github.com/FastPath2020/FastPath2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## News
 
-### Markdown
+**December 7, 2020:**  Site Under Construction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Background
+[FastPath 2021](https://fastpath2021.github.io) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
 
-```markdown
-Syntax highlighted code block
+These include distributed training on big data, hyper-parameter tuning for models, emerging accelerators, fast I/O for random inputs, approximate computing for training and inference, programming models for a diverse machine-learning workloads, high-bandwidth interconnect, efficient mapping of processing logic on hardware, and cross system stack performance optimization. Emerging infrastructure supporting big data analytics, cognitive computing, large-scale machine learning, mobile computing, and internet-of-things, exemplify system designs optimized for machine learning at large.
 
-# Header 1
-## Header 2
-### Header 3
+## Topics
+FastPath seeks to facilitate the exchange of ideas on performance analysis and evaluation of machine learning/AI systems and seeks papers on a wide range of topics including, but not limited to:
 
-- Bulleted
-- List
+- Workload characterization, performance modeling and profiling of machine learning applications
+- GPUs, FPGAs, ASIC accelerators
+- Memory, I/O, storage, network accelerators
+- Hardware/software co-design
+- Efficient machine learning algorithms
+- Approximate computing in machine learning
+- Power/Energy and learning acceleration
+- Software, library, and runtime for machine learning systems
+- Workload scheduling and orchestration
+- Machine learning in cloud systems
+- Large-scale machine learning systems
+- Emerging intelligent/cognitive systems
+- Converged/integrated infrastructure
+- Machine learning systems for specific domains, e.g., financial, biological, education, commerce, healthcare
 
-1. Numbered
-2. List
+## Submission
 
-**Bold** and _Italic_ and `Code` text
+Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2020)**
 
-[Link](url) and ![Image](src)
-```
+Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Key Dates
+ 
+| Item                       | Date              |
+| ----                       | ----:             |
+| Submission                 | January  22, 2021 |
+| Notification               | February 22, 2021 |
+| Workshop                   | March    28, 2021 |
 
-### Jekyll Themes
+## Organizers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FastPath2020/FastPath2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| Role            | People                       |
+| ----            | ----                         |
+| General Chair   | Erik Altman (IBM)            |
+| Program Chairs  | Parijat Dube (IBM)           |
+|                 | TBD                          |
+| Publicity Chair | TBD                          |
 
-### Support or Contact
+## Program Committee
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| PC Member            | Affiliation               |
+| ----                 | ----                      |
+| TBD                  | TBD                       |
+
+
+## Previous Editions
+
+**[FastPath 2020](https://fastpath2020.github.io)** was held in conjunction with ISPASS 2020. Full-day with 7 invited speakers and 2 regular speakers.
+
+**[FastPath 2019](https://tinyurl.com/2019-FastPath)** was held in conjunction with ISPASS 2019. Full-day with 8 invited speakers and 3 regular speakers.
+
+**[FastPath 2018](https://researcher.watson.ibm.com/researcher/view_group.php?id=8493)** was held in conjunction with ISPASS 2018. Full-day with 4 invited speakers and a panel.
+
+**[FastPath 2015](https://researcher.watson.ibm.com/researcher/view_group.php?id=5865)** was held in conjunction with ISPASS 2015. Half-day with 4 invited speakers.
+
+**[FastPath 2014](http://researcher.ibm.com/project/4338)** was held in conjunction with ISPASS 2014. Full-day with 3 invited speakers and 4 regular speakers.
+
+**[FastPath 2013](http://researcher.ibm.com/project/5276)** was held in conjunction with ISPASS 2013. Full-day with 1 keynote speaker, 6 invited speakers and 1 regular speaker.
+
+**[FastPath 2012](https://sites.google.com/site/fastpath2012)** was held in conjunction with ISPASS 2012. Half-day with 1 keynote speaker and 3 invited speakers.
