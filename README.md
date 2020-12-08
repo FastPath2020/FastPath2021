@@ -32,7 +32,7 @@ FastPath seeks to facilitate the exchange of ideas on performance analysis and e
 
 ## Submission
 
-Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2020)**
+Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2021)**
 
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
