@@ -8,7 +8,7 @@ In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 **December 7, 2020:**  Site Under Construction
 
 ## Background
-[FastPath 2021](https://fastpath2021.github.io) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
+[FastPath 2021](https://fastpath2020.github.io/FastPath2021/) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
 
 These include distributed training on big data, hyper-parameter tuning for models, emerging accelerators, fast I/O for random inputs, approximate computing for training and inference, programming models for a diverse machine-learning workloads, high-bandwidth interconnect, efficient mapping of processing logic on hardware, and cross system stack performance optimization. Emerging infrastructure supporting big data analytics, cognitive computing, large-scale machine learning, mobile computing, and internet-of-things, exemplify system designs optimized for machine learning at large.
 
@@ -32,7 +32,7 @@ FastPath seeks to facilitate the exchange of ideas on performance analysis and e
 
 ## Submission
 
-Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2020)**
+Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2021)**
 
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
