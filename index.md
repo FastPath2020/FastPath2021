@@ -50,7 +50,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | ----            | ----                         |
 | General Chair   | Erik Altman (IBM)            |
 | Program Chairs  | Parijat Dube (IBM)           |
-|                 | TBD                          |
+|                 |                              |
 | Publicity Chair | Yuhao Zhu (Univ of Rochester |
 
 ## Program Committee
