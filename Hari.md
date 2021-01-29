@@ -1,5 +1,5 @@
 ## [Siva Hari](https://research.nvidia.com/person/siva-hari)
-### Associate Professor of Electrical Engineering and Computer Science, MIT
+### Senior Research Scientist, NVIDIA
 
 ### Invited Talk:  *Title Pending*
 
