@@ -15,7 +15,7 @@ In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 | Chuang Gan                                                   | IBM                                | Pending                                                                  |
 | [Anju Kambadur, Ania Musial, Ian Hummel](https://fastpath2020.github.io/Kambadur) | Bloomberg L.P.| The Bloomberg Data Science Platform                                      |
 
-## Technical Papers (TBD)
+## Technical Papers *(TBD)*
 
 |             |                                                                                                                              |
 | ----        | ----                                                                                                                         |
