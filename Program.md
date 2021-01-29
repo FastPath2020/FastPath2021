@@ -9,11 +9,8 @@ In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 | ----                                                            | ----                           | ----                  |
 | [Siva Hari](https://tinyurl.com/fastpath2021/Hari)              | NVidia                         | TBD                   |
 | [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner)  | Carnegie Mellon University     | TBD                   |
-| [Yuhao Zhu](https://fastpath2020.github.io/Zhu)              | University of Rochester            | Getting Computer Systems Ready for Visual Computing in Ten Years         |
-| [Leopold Grinberg](https://fastpath2020.github.io/Grinberg)  | IBM Research                       | Unsupervised Training and Unified Global Address Spaces                  |
-| [Colby Banbury](https://fastpath2020.github.io/Banbury)      | Harvard University                 | tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems        |
-| Chuang Gan                                                   | IBM                                | Pending                                                                  |
-| [Anju Kambadur, Ania Musial, Ian Hummel](https://fastpath2020.github.io/Kambadur) | Bloomberg L.P.| The Bloomberg Data Science Platform                                      |
+| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)            | Google Brain                   | TBD                   |
+
 
 ## Technical Papers *(TBD)*
 
