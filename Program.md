@@ -1,7 +1,7 @@
 ## PRELIMINARY PROGRAM - International Workshop on Performance Analysis of Machine Learning Systems
-Sunday, August 23, 2020 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
+Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
 
-In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
+In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 
 ## Invited Speakers
 
@@ -15,12 +15,16 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 | Chuang Gan                                                   | IBM                                | Pending                                                                  |
 | [Anju Kambadur, Ania Musial, Ian Hummel](https://fastpath2020.github.io/Kambadur) | Bloomberg L.P.| The Bloomberg Data Science Platform                                      |
 
-## Technical Papers
+## Technical Papers (TBD)
 
 |             |                                                                                                                              |
 | ----        | ----                                                                                                                         |
-| **Title**   | [*SpecNet: Spectral Domain Convolutional Neural Network*](https://fastpath2020.github.io/Guan)                               |
-| **Authors** | Bochen Guan, Jinnian Zhang, William A. Sethares, Richard Kijowski (University of Wisconsin), Fang Liu (Harvard University)   |
+| **Title**   | [*Paper 1*](https://tinyurl.com/fastpath2021)                                                                                |
+| **Authors** | Author 1, Author 2, Etc                                                                                                      |
 |             |                                                                                                                              |
-| **Title**   | [*Quantifying the impact of data encoding on DNN fault tolerance*](https://fastpath2020.github.io/Pyne)                      |
-| **Authors** | Edward Pyne, Lillian Pentecoste, Udit Gupta, Gu-Yeon Wei, David Brooks (Harvard University)                                  |
+| **Title**   | [*Paper 2*](https://tinyurl.com/fastpath2021)                                                                                |
+| **Authors** | Author 1, Author 2, Etc                                                                                                      |
+|             |                                                                                                                              |
+| **Title**   | [*Etc*](https://tinyurl.com/fastpath2021)                                                                                |
+| **Authors** | Author 1, Author 2, Etc                                                                                                      |
+|             |                                                                                                                              |
