@@ -5,11 +5,12 @@ In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 
 ## Confirmed Speakers 
 
-| Speaker                                                         | Affiliation                    | Talk Title            |
-| ----                                                            | ----                           | ----                  |
-| [Siva Hari](https://tinyurl.com/fastpath2021/Hari)              | NVidia                         | TBD                   |
-| [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner)  | Carnegie Mellon University     | TBD                   |
-| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)            | Google Brain                   | TBD                   |
+| Speaker                                                         | Affiliation                         | Talk Title            |
+| ----                                                            | ----                                | ----                  |
+| [Siva Hari](https://tinyurl.com/fastpath2021/Hari)              | NVidia                              | TBD                   |
+| [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner)  | Carnegie Mellon University          | TBD                   |
+| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)            | Google Brain                        | TBD                   |
+| [Amrita Mazumdar](https://tinyurl.com/fastpath2021/Mazumdar)    | Vignette, Inc / Univ of Washington  | TBD                   |
 
 
 ## Technical Papers *(TBD)*
