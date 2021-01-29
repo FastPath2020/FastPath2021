@@ -3,9 +3,11 @@ March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:
 
 In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 
+# [Preliminary Program](https://tinyurl.com/fastpath2021/Program)
+
 ## News
 
-**December 7, 2020:**  Site Under Construction
+**January 29, 2021:**  Speakers added to [Preliminary Program](https://tinyurl.com/fastpath2021/Program)
 
 ## Background
 [FastPath 2021](https://fastpath2020.github.io/FastPath2021/) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
