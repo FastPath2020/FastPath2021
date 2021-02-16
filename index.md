@@ -42,8 +42,8 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
  
 | Item                       | Date              |
 | ----                       | ----:             |
-| Submission                 | February 15, 2021 |
-| Notification               | March     1, 2021 |
+| Submission                 | February 26, 2021 |
+| Notification               | March     8, 2021 |
 | Workshop                   | March    28, 2021 |
 
 ## Organizers
