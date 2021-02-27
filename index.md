@@ -58,9 +58,12 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 ## Program Committee
 
-| PC Member            | Affiliation               |
-| ----                 | ----                      |
-| TBD                  | TBD                       |
+| PC Member            | Affiliation                                                |
+| ----                 | ----                                                       |
+| Deeksha Dangwal      | University of California -Santa Barbara                    |
+| Christoph Dubach     | McGill University                                          |
+| Jingwen Leng         | Shanghai Jiao Tong University                              |
+| Minsoo Rhu           | KAIST - Korea Advanced Institute of Science and Technology |
 
 
 ## Previous Editions
