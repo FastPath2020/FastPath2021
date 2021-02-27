@@ -19,4 +19,4 @@ Her research focuses on new systems for VR, video, and graphics using hardware-s
 Before graduate school, she studied computer engineering and English literature at Columbia University.
 
 ----
-**[FastPath 2021 Program](https://tinyurl.com/fastpath2021)**
+**[FastPath 2021 Program](https://tinyurl.com/fastpath2021/Program)**
