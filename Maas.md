@@ -18,4 +18,4 @@ Before coming to UC Berkeley, he completed his undergraduate degree at the Unive
 During his time in high-school, Dr Maas was an active participant in science and programming competitions. He was on the German team for the International Olympiad of Informatics (IOI) and represented Germany at the International Science and Engineering Fair (ISEF).
 
 ----
-**[FastPath 2021 Program](https://tinyurl.com/fastpath2021)**
+**[FastPath 2021 Program](https://tinyurl.com/fastpath2021/Program)**
