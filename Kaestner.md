@@ -14,4 +14,4 @@ Christian Kästner is an associate professor in the School of Computer Science a
 Dr Kästner received his Dr.-Ing. in Computer Science from Otto-von-Guericke University, Magdeburg, Germany in 2010.  After serving 2 years as a Research Assistant at the University of Magdeburg, he came to CMU in 2012, initially as an Assistant Professor.
 
 ----
-**[FastPath 2021 Program](https://tinyurl.com/fastpath2021)**
+**[FastPath 2021 Program](https://tinyurl.com/fastpath2021/Program)**
