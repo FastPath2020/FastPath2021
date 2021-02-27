@@ -17,3 +17,6 @@ Her PhD work was advised by Luis Ceze and Mark Oskin in the Allen School of Comp
 Her research focuses on new systems for VR, video, and graphics using hardware-software codesign and ML-for-systems techniques. My work spans the glass-to-glass visual computing pipeline; She likes to work on systems problems ranging from camera capture, to visual data processing and storage, to media distribution and rendering. In her dissertation, she proposed perceptual optimizations, a new class of domain-specific optimizations for vision and graphics workloads, to improve performance for custom hardware accelerators, storage systems, and data management systems.
 
 Before graduate school, she studied computer engineering and English literature at Columbia University.
+
+----
+**[FastPath 2021 Program](https://tinyurl.com/fastpath2021)**
