@@ -5,13 +5,13 @@ Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:
 
 ## Confirmed Speakers 
 
-| Speaker                                                         | Affiliation                         | Talk Title            |
-| ----                                                            | ----                                | ----                  |
-| [Siva Hari](https://tinyurl.com/fastpath2021/Hari)              | NVidia                              | TBD                   |
-| [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner)  | Carnegie Mellon University          | TBD                   |
-| [Ana Klimovic](https://tinyurl.com/fastpath2021/Klimovic)       | ETH-Zurich                          | TBD                   |
-| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)            | Google Brain                        | TBD                   |
-| [Amrita Mazumdar](https://tinyurl.com/fastpath2021/Mazumdar)    | Vignette, Inc / Univ of Washington  | TBD                   |
+| Speaker                                                        | Affiliation                         | Talk Title            |
+| ----                                                           | ----                                | ----                  |
+| [Siva Hari](https://tinyurl.com/fastpath2021/Hari)             | NVidia                              | TBD                   |
+| [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner) | Carnegie Mellon University          | TBD                   |
+| [Ana Klimovic](https://tinyurl.com/fastpath2021/Klimovic)      | ETH-Zurich                          | Ingesting and Processing Data Efficiently for Machine Learning |
+| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)           | Google Brain                        | TBD                   |
+| [Amrita Mazumdar](https://tinyurl.com/fastpath2021/Mazumdar)   | Vignette, Inc / Univ of Washington  | TBD                   |
 
 
 ## Technical Papers *(TBD)*
