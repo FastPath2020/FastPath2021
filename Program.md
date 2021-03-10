@@ -8,7 +8,7 @@ Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:
 | Speaker                                                        | Affiliation                         | Talk Title            |
 | ----                                                           | ----                                | ----                  |
 | [Kaoutar El Maghraoui](https://tinyurl.com/fastpath2021/El_Maghraoui) | IBM Research                 | TBD                   |
-| [Siva Hari](https://tinyurl.com/fastpath2021/Hari)             | NVidia                              | TBD                   |
+| [Siva Hari](https://tinyurl.com/fastpath2021/Hari)             | NVidia                              | Resilience and Safety for Autonomous Vehicles                  |
 | [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner) | Carnegie Mellon University          | Toward a system-wide and interdisciplinary perspective on ML system performance |
 | [Ana Klimovic](https://tinyurl.com/fastpath2021/Klimovic)      | ETH-Zurich                          | Ingesting and Processing Data Efficiently for Machine Learning |
 | [Martin Maas](https://tinyurl.com/fastpath2021/Maas)           | Google Brain                        | TBD                   |
