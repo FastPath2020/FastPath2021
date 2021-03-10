@@ -1,11 +1,11 @@
 ## [Siva Hari](https://research.nvidia.com/person/siva-hari)
 ### Senior Research Scientist, NVIDIA
 
-### Invited Talk:  *Title Pending*
+### Invited Talk:  *Resilience and Safety for Autonomous Vehicles*
 
 **Abstract:**
 
-TBD
+Autonomous vehicles (AVs) employ a sophisticated set of sensors, computer systems, and algorithms to perceive surroundings, localize, plan, and control the vehicle. These complex systems must meet high-levels of safety as they are deployed to transport or interact with humans. To demonstrate the safety of an AV, it must be designed and tested to tolerate hardware errors, operate within the constraints of the hardware platform (e.g., limited power), and operate in challenging driving conditions. While standards have been established to facilitate system development to address some of these problems (e.g., tolerating hardware errors), addressing others have remained open-ended. In this talk, the presenter will summarize some of his recent work that aims to improve safety of AVs by addressing each of the above listed areas, and discuss interesting future research directions.
 
 **Biography:**
 
