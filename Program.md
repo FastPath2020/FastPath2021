@@ -11,7 +11,7 @@ Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:
 | [Siva Hari](https://tinyurl.com/fastpath2021/Hari)             | NVidia                              | Resilience and Safety for Autonomous Vehicles                  |
 | [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner) | Carnegie Mellon University          | Toward a system-wide and interdisciplinary perspective on ML system performance |
 | [Ana Klimovic](https://tinyurl.com/fastpath2021/Klimovic)      | ETH-Zurich                          | Ingesting and Processing Data Efficiently for Machine Learning |
-| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)           | Google Brain                        | TBD                   |
+| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)           | Google Brain                        | A Taxonomy of Machine Learning for Systems Problems            |
 | [Amrita Mazumdar](https://tinyurl.com/fastpath2021/Mazumdar)   | Vignette AI / Univ of Washington    | Learning for Better Video Processing Systems                   |
 | [Jongsoo Park](https://tinyurl.com/fastpath2021/Park)          | Facebook                            | TBD                   |
 
