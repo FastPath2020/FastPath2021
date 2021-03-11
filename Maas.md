@@ -1,21 +1,15 @@
 ## [Martin Maas](http://www.martin-maas.com)
 ### Senior Research Scientist, Google Brain
 
-### Invited Talk:  *Title Pending*
+### Invited Talk:  *A Taxonomy of Machine Learning for Systems Problems*
 
 **Abstract:**
 
-TBD
+Machine learning has the potential to significantly improve computer systems. While recent research in this area has shown great promise, not all problems are equally well-suited for applying ML techniques, and some remaining challenges have prevented wider adoption of ML techniques in systems. In this talk, I will introduce a taxonomy to classify machine learning for systems approaches, discuss how to identify cases that are a good fit for machine learning, and lay out a longer-term vision of how we can improve systems using ML techniques, ranging from computer architecture to language runtimes.
 
 **Biography:**
 
-Martin Maas is a Senior Research Scientist in the Google Brain team. Before joining Google, he completed his PhD in the Electrical Engineering and Computer Sciences department at UC Berkeley, working with Krste Asanović and John Kubiatowicz. His primary research interests are in managed language runtime systems, operating systems and computer architecture.  He is interested in the entire stack from the hardware to the programming systems layer. At Google Brain, he is working on topics related to machine learning.
-
-His PhD research focused on warehouse-scale computers. He worked and collaborated across areas and built real systems that involve large system-level codebases as well as hardware-level RTL. He applied this approach to domains ranging from security to managed languages. During his PhD, he (1) built a secure processor that provides memory-trace obliviousness (a new security property) and which can be targeted by a custom compiler; (2) built a distributed language runtime system that coordinates JVMs on different nodes in a cluster; and (3) worked on hardware support for garbage collection. He also built research infrastructure, including FPGA implementations of hardware based on the RISC-V ISA.
-
-Before coming to UC Berkeley, he completed his undergraduate degree at the University of Cambridge. In his undergraduate research, he investigated the challenges and bottlenecks of implementing a Java Virtual Machine for the Barrelfish Operating System. He was supervised by Ross McIlroy and Tim Harris from Microsoft Research, Cambridge.
-
-During his time in high-school, Dr Maas was an active participant in science and programming competitions. He was on the German team for the International Olympiad of Informatics (IOI) and represented Germany at the International Science and Engineering Fair (ISEF).
+Martin Maas is a Senior Research Scientist at Google Research and part of the Brain team.  His research interests are in language runtimes, computer architecture, systems, and machine learning, with a focus on applying machine learning to systems problems. Before joining Google, Martin completed his PhD in Computer Science at the University of California at Berkeley, where he worked on hardware support for managed languages and architectural support for memory-trace obliviousness, both based on the free and open RISC-V ISA.
 
 ----
 **[FastPath 2021 Program](https://tinyurl.com/fastpath2021/Program)**
