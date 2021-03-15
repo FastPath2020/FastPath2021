@@ -1,6 +1,8 @@
 ## [Jongsoo Park](https://sites.google.com/site/jongsoopark)
 ### Technical Lead and Manager -- Facebook AI Systems Co-design
 
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEKo6ox7SpEmg/profile-displayphoto-shrink_400_400/0/1516587306971?e=1621468800&v=beta&t=tjSnBiZ6yxTizTKfhO25-4D6EGoMGTYsvofXEe8Bdpk" width="250">
+
 ### Invited Talk:  *Title TBD*
 
 **Abstract:**
