@@ -1,6 +1,8 @@
 ## [Christian Kästner](https://www.cs.cmu.edu/~ckaestne)
 ### Associate Professor, School of Computer Science, Carnegie Mellon University
 
+<img src="https://www.isri.cmu.edu/images/people/kaestner-christian.JPG" width="250">
+
 ### Invited Talk:  *Toward a system-wide and interdisciplinary perspective on ML system performance*
 
 **Abstract:**
