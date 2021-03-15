@@ -1,7 +1,7 @@
 ## [Martin Maas](http://www.martin-maas.com)
 ### Senior Research Scientist, Google Brain
 
-![Martin Maas Photo](https://lh6.googleusercontent.com/S5A4CJwsC4DvDZyy9MADGXSIeq5cc6BvOdi8iiekX9oBCi94UUwcjvU8cEagKzo-8TsmbNGGp2stuRtVGLtLm9mOIVcewLvglcFeDDfDuVifw0uq=w1280)
+![Martin Maas Photo](https://avatars.githubusercontent.com/u/1013329?s=460&u=238e3ad2b9d90e3a6a80f7dd9f973852782e0b16&v=4)
 
 ### Invited Talk:  *A Taxonomy of Machine Learning for Systems Problems*
 
