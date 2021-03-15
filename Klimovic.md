@@ -1,6 +1,8 @@
 ## [Ana Klimovic](https://anakli.inf.ethz.ch)
 ### Assistant Professor -- Department of Computer Science -- ETH Zurich
 
+<img src="https://anakli.inf.ethz.ch/static/media/anaklimovic_photo_800_890.bfc4b113.jpg" width="250">
+
 ### Invited Talk:  *Ingesting and Processing Data Efficiently for Machine Learning*
 
 **Abstract:**
