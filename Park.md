@@ -3,8 +3,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/5545022?s=460&u=f8712206bc830a7e7984c24314aa9f5801d24192&v=4" width="250">
 
-<img src="https://lh6.googleusercontent.com/fXPFPvVH8-6Lm7IYbwCN-1FUnEMA78Wsua27HGs6kWU7oiUU0p7N6Xu-eK1jaKBHn0drDEITDW0VGXbBLeLYLz-riFrGnD_kS_HSfOrBEgU=w1280" width="250">
-
 ### Invited Talk:  *Title TBD*
 
 **Abstract:**
