@@ -1,6 +1,8 @@
 ## [Siva Hari](https://research.nvidia.com/person/siva-hari)
 ### Senior Research Scientist, NVIDIA
 
+<img src="https://research.nvidia.com/sites/default/files/styles/large/public/person/siva_small.jpg?itok=PwA5E8Dc" width="250">
+
 ### Invited Talk:  *Resilience and Safety for Autonomous Vehicles*
 
 **Abstract:**
