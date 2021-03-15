@@ -2,6 +2,9 @@
 ### Founder & CEO, Vignette AI
 ### University of Washington CoMotion Fellow
 
+![Amrita Mazumdar Photo](https://user-images.githubusercontent.com/57958800/111180356-59e01600-8583-11eb-9c27-8678faa113a9.png)
+
+
 ### Invited Talk:  *Learning for Better Video Processing Systems*
 
 **Abstract:**
