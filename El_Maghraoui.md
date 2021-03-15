@@ -1,6 +1,8 @@
 ## [Kaoutar El Maghraoui](https://researcher.watson.ibm.com/researcher/view.php?person=us-kelmaghr)
 ### Principal Research Staff Member -- AI Engineering, IBM Research AI
 
+![Kaoutar El Maghraoui Photo](https://researcher.watson.ibm.com/researcher/photos/1843.jpg)
+
 ### Invited Talk:  *Title TBD*
 
 **Abstract:**
