@@ -8,6 +8,7 @@ In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 ## News
 
 **January 29, 2021:**  Speakers added to [Preliminary Program](https://tinyurl.com/fastpath2021/Program)
+
 **March 16, 2021:**  Speakers, Program, and Timeline finalized.
 
 ## Background
