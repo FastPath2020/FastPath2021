@@ -28,18 +28,3 @@ Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:
 **Note 1:**  All times US EDT:  11:00 am US EDT = 15:00 GMT
 
 **Note 2:** Summer Time / Daylight Savings Time in Europe starts on March 28 -- the same day as FastPath
-
-
-## Technical Papers *(TBD)*
-
-|             |                                                                                                                              |
-| ----        | ----                                                                                                                         |
-| **Title**   | [*Paper 1*](https://tinyurl.com/fastpath2021)                                                                                |
-| **Authors** | Author 1, Author 2, Etc                                                                                                      |
-|             |                                                                                                                              |
-| **Title**   | [*Paper 2*](https://tinyurl.com/fastpath2021)                                                                                |
-| **Authors** | Author 1, Author 2, Etc                                                                                                      |
-|             |                                                                                                                              |
-| **Title**   | [*Etc*](https://tinyurl.com/fastpath2021)                                                                                |
-| **Authors** | Author 1, Author 2, Etc                                                                                                      |
-|             |                                                                                                                              |
