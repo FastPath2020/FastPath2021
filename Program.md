@@ -25,7 +25,9 @@ Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:
 |               |                                                                |                                     |                       |
 | 16:25 - 16:30 | *Organizers:* Parijat Dube, Yuhao Zhu, Erik Altman             | IBM, Univ of Rochester, IBM         | *Closing Remarks*     |
 
-All times US EDT:  11:00 am US EDT = 15:00 GMT
+**Note 1:**  All times US EDT:  11:00 am US EDT = 15:00 GMT
+
+**Note 2:** Summer Time / Daylight Savings Time in Europe starts on March 28 -- the same day as FastPath
 
 
 ## Technical Papers *(TBD)*
