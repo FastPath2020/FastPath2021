@@ -13,7 +13,7 @@ Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:
 | [Ana Klimovic](https://tinyurl.com/fastpath2021/Klimovic)      | ETH-Zurich                          | Ingesting and Processing Data Efficiently for Machine Learning |
 | [Martin Maas](https://tinyurl.com/fastpath2021/Maas)           | Google Brain                        | A Taxonomy of Machine Learning for Systems Problems            |
 | [Amrita Mazumdar](https://tinyurl.com/fastpath2021/Mazumdar)   | Vignette AI / Univ of Washington    | Learning for Better Video Processing Systems                   |
-| [Jongsoo Park](https://tinyurl.com/fastpath2021/Park)          | Facebook                            | TBD                   |
+| [Jongsoo Park](https://tinyurl.com/fastpath2021/Park)          | Facebook                            | Embedding Operations in Deep Learning Recommendation Models    |
 
 
 ## Technical Papers *(TBD)*
