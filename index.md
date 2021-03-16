@@ -1,5 +1,5 @@
 ## International Workshop on Performance Analysis of Machine Learning Systems
-March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
+March 28, 2021 -- Virtual *(10:50 am - 4:30 pm US EDT = 14:50 - 20:30 UTC)*
 
 In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 
@@ -8,6 +8,7 @@ In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 ## News
 
 **January 29, 2021:**  Speakers added to [Preliminary Program](https://tinyurl.com/fastpath2021/Program)
+**March 16, 2021:**  Speakers, Program, and Timeline finalized.
 
 ## Background
 [FastPath 2021](https://fastpath2020.github.io/FastPath2021/) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
