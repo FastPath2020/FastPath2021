@@ -5,15 +5,27 @@ Sunday, March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:
 
 ## Confirmed Speakers 
 
-| Speaker                                                        | Affiliation                         | Talk Title            |
-| ----                                                           | ----                                | ----                  |
-| [Kaoutar El Maghraoui](https://tinyurl.com/fastpath2021/El_Maghraoui) | IBM Research                 | TBD                   |
-| [Siva Hari](https://tinyurl.com/fastpath2021/Hari)             | NVidia                              | Resilience and Safety for Autonomous Vehicles                  |
-| [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner) | Carnegie Mellon University          | Toward a system-wide and interdisciplinary perspective on ML system performance |
-| [Ana Klimovic](https://tinyurl.com/fastpath2021/Klimovic)      | ETH-Zurich                          | Ingesting and Processing Data Efficiently for Machine Learning |
-| [Martin Maas](https://tinyurl.com/fastpath2021/Maas)           | Google Brain                        | A Taxonomy of Machine Learning for Systems Problems            |
-| [Amrita Mazumdar](https://tinyurl.com/fastpath2021/Mazumdar)   | Vignette AI / Univ of Washington    | Learning for Better Video Processing Systems                   |
-| [Jongsoo Park](https://tinyurl.com/fastpath2021/Park)          | Facebook                            | Embedding Operations in Deep Learning Recommendation Models    |
+| Time          | Speaker                                                        | Affiliation                         | Talk Title            |
+| ----          | ----                                                           | ----                                | ----                  |
+| 10:50 - 11:00 | *Organizers:* Parijat Dube, Yuhao Zhu, Erik Altman             | IBM, Univ of Rochester, IBM         | *Opening Remarks*     |
+|               |                                                                |                                     |                       |
+| 11:00 - 11:35 | [Ana Klimovic](https://tinyurl.com/fastpath2021/Klimovic)      | ETH-Zurich                          | Ingesting and Processing Data Efficiently for Machine Learning |
+| 11:35 - 12:10 | [Christian Kästner](https://tinyurl.com/fastpath2021/Kaestner) | Carnegie Mellon University          | Toward a system-wide and interdisciplinary perspective on ML system performance |
+| 12:10 - 12:45 | [Kaoutar El Maghraoui](https://tinyurl.com/fastpath2021/El_Maghraoui) | IBM Research                 | TBD                   |
+|               |                                                                |                                     |                       |
+| 12:45 - 13:45 | LUNCH / DINNER / BREAKFAST                                     |                                     |                       |
+|               |                                                                |                                     |                       |
+| 13:45 - 14:20 | [Siva Hari](https://tinyurl.com/fastpath2021/Hari)             | NVidia                              | Resilience and Safety for Autonomous Vehicles                  |
+| 14:20 - 14:55 | [Amrita Mazumdar](https://tinyurl.com/fastpath2021/Mazumdar)   | Vignette AI / Univ of Washington    | Learning for Better Video Processing Systems                   |
+|               |                                                                |                                     |                       |
+| 14:55 - 15:15 | BREAK                                                          |                                     |                       |
+|               |                                                                |                                     |                       |
+| 15:15 - 15:50 | [Martin Maas](https://tinyurl.com/fastpath2021/Maas)           | Google Brain                        | A Taxonomy of Machine Learning for Systems Problems            |
+| 15:50 - 16:25 | [Jongsoo Park](https://tinyurl.com/fastpath2021/Park)          | Facebook                            | Embedding Operations in Deep Learning Recommendation Models    |
+|               |                                                                |                                     |                       |
+| 16:25 - 16:30 | *Organizers:* Parijat Dube, Yuhao Zhu, Erik Altman             | IBM, Univ of Rochester, IBM         | *Closing Remarks*     |
+
+All times US EDT:  11:00 am US EDT = 16:00 GMT
 
 
 ## Technical Papers *(TBD)*
