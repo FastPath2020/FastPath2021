@@ -1,4 +1,4 @@
-## PRELIMINARY PROGRAM - International Workshop on Performance Analysis of Machine Learning Systems
+## PROGRAM - International Workshop on Performance Analysis of Machine Learning Systems
 Sunday, March 28, 2021 -- Virtual *(10:50 am - 4:30 pm US EDT = 14:50 - 20:30 UTC)*
 
 **[FastPath 2021](https://tinyurl.com/fastpath2021)** is in conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
