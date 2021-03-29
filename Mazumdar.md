@@ -7,6 +7,8 @@
 
 ### Invited Talk:  *Learning for Better Video Processing Systems*
 
+### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_A_Mazumdar.pdf) 
+
 **Abstract:**
 
 Modern video sharing and analytics systems use large volumes of images and video to understand the visual world, leveraging machine learning (ML) algorithms to generate features and semantic metadata. While these ML systems generate valuable information about the underlying structure and meaning of video data, videos are typically stored as a single encoded file containing frames of pixels, omitting any ML-generated information during compression. In this talk, I will present recent progress on developing new video storage and compression systems that incorporate learned features and compression parameters, such as visual saliency or semantic objects. Our systems reduce overall video bandwidth while maintaining application performance. I will also discuss early efforts and challenges in applying machine learning for both encode and decode pipelines. 
