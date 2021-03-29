@@ -5,6 +5,8 @@
 
 ### Invited Talk:  *Embedding Operations in Deep Learning Recommendation Models*
 
+### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_J_Park.pdf) 
+
 **Abstract:**
 
 At Facebook, AI is essential at providing personalized feed and at understanding visual and linguistic contents, and must scale to billions of users. I will specifically focus on deep learning recommendation models (DLRM) that account for the bulk of our AI usage and have substantially different characteristics from computer vision and language models, yet relatively less studied in academia. I will deep dive into embedding operations of the deep learning recommendation models that pose interesting challenges to memory/storage and network systems. The embedding operations require more than hundreds of GBs of memory while demanding HBM-level memory bandwidth. They also result in all-to-all collective communication that are not easy to scale with hierarchical network topology unlike all-reduce often found in computer vision and language models.
