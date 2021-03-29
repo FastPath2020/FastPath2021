@@ -5,6 +5,8 @@
 
 ### Invited Talk:  *Toward a system-wide and interdisciplinary perspective on ML system performance*
 
+### [Slides](https://ckaestne.github.io/seai/talks/fastpath21/fastpath.html)
+
 **Abstract:**
 
 Building production systems with machine learning components requires a system-wide design and analysis process that involves many ML and non-ML components and many stakeholders from different backgrounds. Performance concerns need to be balanced with other qualities and design goals, such as update frequency, telemetry needs, and deployment and privacy concerns. It requires negotiation between data scientists, software engineers, operators, and other stakeholders to agree on constraints, assumptions, and system structure. In this talk, I'll emphasize the system nature of production systems with ML components and borrow from the software architecture view to analyse and design systems that meet performance and other quality goals.
