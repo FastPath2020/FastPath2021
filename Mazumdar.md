@@ -7,7 +7,9 @@
 
 ### Invited Talk:  *Learning for Better Video Processing Systems*
 
-### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_A_Mazumdar.pdf) 
+### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_A_Mazumdar.pdf)
+
+### [Video](https://www.youtube.com/watch?v=mAS_o3R0qag&list=PLiFY02l7XTtu56WoMabDUjo-xfESEDs14&index=7)
 
 **Abstract:**
 
