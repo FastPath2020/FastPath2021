@@ -5,7 +5,9 @@
 
 ### Invited Talk:  *Embedding Operations in Deep Learning Recommendation Models*
 
-### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_J_Park.pdf) 
+### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_J_Park.pdf)
+
+### [Video](https://www.youtube.com/watch?v=rsph4ohjwoc&list=PLiFY02l7XTtu56WoMabDUjo-xfESEDs14&index=8)
 
 **Abstract:**
 
