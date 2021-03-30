@@ -3,6 +3,8 @@ Sunday, March 28, 2021 -- Virtual *(10:50 am - 4:30 pm US EDT = 14:50 - 20:30 UT
 
 **[FastPath 2021](https://tinyurl.com/fastpath2021)** is in conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
 
+## [Video of Workshop](https://www.youtube.com/watch?v=9_6d5TJCyGw&list=PLiFY02l7XTtu56WoMabDUjo-xfESEDs14)
+
 ## Speakers 
 
 | Time          | Speaker                                                                   | Affiliation                         | Talk Title            | Slides |
