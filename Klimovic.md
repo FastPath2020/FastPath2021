@@ -5,7 +5,9 @@
 
 ### Invited Talk:  *Ingesting and Processing Data Efficiently for Machine Learning*
 
-### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_A_Klimovic.pdf) 
+### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_A_Klimovic.pdf)
+
+### [Video](https://www.youtube.com/watch?v=1vNthyxtaUE&list=PLiFY02l7XTtu56WoMabDUjo-xfESEDs14&index=3)
 
 **Abstract:**
 
