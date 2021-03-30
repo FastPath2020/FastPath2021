@@ -5,7 +5,9 @@
 
 ### Invited Talk:  *Hardware-aware Automated AI for Efficient Deep Learning across Hybrid Deployments: Current Landscape and Future Directions*
 
-### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_K_ElMaghroui.pdf) 
+### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_K_ElMaghroui.pdf)
+
+### [Video](https://www.youtube.com/watch?v=oGQg061Wmoo&list=PLiFY02l7XTtu56WoMabDUjo-xfESEDs14&index=5)
 
 **Abstract:**
 
