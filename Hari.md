@@ -5,6 +5,8 @@
 
 ### Invited Talk:  *Resilience and Safety for Autonomous Vehicles*
 
+### [Video](https://www.youtube.com/watch?v=Oe5tEe4SRPQ&list=PLiFY02l7XTtu56WoMabDUjo-xfESEDs14&index=6)
+
 **Abstract:**
 
 Autonomous vehicles (AVs) employ a sophisticated set of sensors, computer systems, and algorithms to perceive surroundings, localize, plan, and control the vehicle. These complex systems must meet high-levels of safety as they are deployed to transport or interact with humans. To demonstrate the safety of an AV, it must be designed and tested to tolerate hardware errors, operate within the constraints of the hardware platform (e.g., limited power), and operate in challenging driving conditions. While standards have been established to facilitate system development to address some of these problems (e.g., tolerating hardware errors), addressing others have remained open-ended. In this talk, the presenter will summarize some of his recent work that aims to improve safety of AVs by addressing each of the above listed areas, and discuss interesting future research directions.
