@@ -5,6 +5,8 @@
 
 ### Invited Talk:  *Resilience and Safety for Autonomous Vehicles*
 
+### [Slides](https://tinyurl.com/fastpath2021/Slides/FastPath2021_S_Hari.pdf)
+
 ### [Video](https://www.youtube.com/watch?v=Oe5tEe4SRPQ&list=PLiFY02l7XTtu56WoMabDUjo-xfESEDs14&index=6)
 
 **Abstract:**
